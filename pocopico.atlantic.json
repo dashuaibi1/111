@@ -4,8 +4,8 @@
   "info": {
     "name": "atlantic",
     "description": "Adds Marvell (Aquantia) Corporation(R) Network Driver Support",
-    "author_url": "",
-    "packer_url": "",
+    "author_url": "https://github.com/pocopico",
+    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/atlantic",
     "help_url": "<todo>"
   },
   "releases": {
