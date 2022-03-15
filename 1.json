@@ -1,0 +1,14 @@
+{
+  "id": "pocopico.atlantic",
+  "url": "https://raw.githubusercontent.com/dashuaibi1/111/main/pocopico.atlantic.json?token=GHSAT0AAAAAABSQ37O3M7WF77CSKUGVOK4AYRQRJLQ",
+  "info": {
+    "name": "atlantic",
+    "description": "Adds Marvell (Aquantia) Corporation(R) Network Driver Support",
+    "author_url": "https://github.com/pocopico",
+    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/atlantic",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/dashuaibi1/111/main/ds3622xsp_42218.json?token=GHSAT0AAAAAABSQ37O3WQHDT7OSD5EGOQJMYRQRAUA"
+  }
+}
